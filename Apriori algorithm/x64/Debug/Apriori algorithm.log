@@ -1,0 +1,9 @@
+﻿  Apriori algorithm.cpp
+C:\visual things\Apriori algorithm\Apriori algorithm.cpp(294,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\visual things\Apriori algorithm\Apriori algorithm.cpp(470,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\visual things\Apriori algorithm\Apriori algorithm.cpp(472,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\visual things\Apriori algorithm\Apriori algorithm.cpp(569,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\visual things\Apriori algorithm\Apriori algorithm.cpp(581,6): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\visual things\Apriori algorithm\Apriori algorithm.cpp(647,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\visual things\Apriori algorithm\Apriori algorithm.cpp(648,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Apriori algorithm.vcxproj -> C:\visual things\Apriori algorithm\x64\Debug\Apriori algorithm.exe
